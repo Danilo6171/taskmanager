@@ -1,5 +1,5 @@
 # TaskManager
-Sistema de gerenciamento de tarefas.
+Sistema de gerenciamento de tarefas (TaskManager).
 Conclusão de tarefas
 Definição de prioridade das tarefas
 
